@@ -1,0 +1,39 @@
+{
+    "start_time": "9/5/2021 15:54:24",
+    "ID": 27,
+    "Gender": "Male",
+    "Age": 21,
+    "Weight": 67,
+    "Height": 185,
+    "Education": "NA",
+    "Occupation": "chainsaw operator assistent",
+    "Region": "Sabugal",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/07/2021",
+    "Gym_frequency": "Everyday",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "Everyday",
+    "Exercise_session_duration": "More than 3 hours",
+    "Prefered_exercises": "Team sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "3-5",
+    "Candy-Salty_snacks-soda_consumption": "Rarely",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "Yes",
+    "Sleeping_hours": "6 hours",
+    "Alcoholic_beverage_consumption": "Everyday",
+    "trial": "27_2021-09-05_15-54-24.txt",
+    "path": "27/",
+    "duration": 60750,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

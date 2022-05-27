@@ -1,0 +1,39 @@
+{
+    "start_time": "9/14/2021 11:09:11",
+    "ID": 115,
+    "Gender": "Female",
+    "Age": 47,
+    "Weight": 51,
+    "Height": 162,
+    "Education": "Hairdresser",
+    "Occupation": "Administrative",
+    "Region": "França",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/02/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "Once per week",
+    "Exercise_session_duration": "Between 30 minutes and 1 hour",
+    "Prefered_exercises": "Walk",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "Rarely",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "Yes",
+    "Smoking_habits": "Yes",
+    "Sleeping_hours": "6 hours",
+    "Alcoholic_beverage_consumption": "Occasionally",
+    "trial": "115_2021-09-14_11-09-11.txt",
+    "path": "115/",
+    "duration": 60150,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

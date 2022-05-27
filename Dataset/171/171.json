@@ -1,0 +1,39 @@
+{
+    "start_time": "9/18/2021 21:38:06",
+    "ID": 171,
+    "Gender": "Female",
+    "Age": 28,
+    "Weight": 49,
+    "Height": 168,
+    "Education": "Pharmaceutical Sciences",
+    "Occupation": "Pharmaceutical investigator",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "09/07/2021",
+    "Gym_frequency": "4-6 times per week",
+    "Sport_practice": "Athletics",
+    "Frequency_of_exercise": "Everyday",
+    "Exercise_session_duration": "Between 1 and 2 hours",
+    "Prefered_exercises": "Run",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "3-5",
+    "Candy-Salty_snacks-soda_consumption": "Rarely",
+    "Water_consumption": "> 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "6 hours",
+    "Alcoholic_beverage_consumption": "Occasionally",
+    "trial": "171_2021-09-18_21-38-06.txt",
+    "path": "171/",
+    "duration": 60300,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

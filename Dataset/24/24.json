@@ -1,0 +1,39 @@
+{
+    "start_time": "9/5/2021 15:04:44",
+    "ID": 24,
+    "Gender": "Female",
+    "Age": 26,
+    "Weight": 59,
+    "Height": 166,
+    "Education": "NA",
+    "Occupation": "Occupational Safety Technician",
+    "Region": "Lisboa",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/23/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "Up to 3 times per month",
+    "Exercise_session_duration": "Between 1 and 2 hours",
+    "Prefered_exercises": "Walk",
+    "Specific_diet": "Lactose intolerant",
+    "Fruits-vegetables_per_day": "6-8",
+    "Candy-Salty_snacks-soda_consumption": "5 or 6 times per week",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "Allergic Rhinitis",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "5 hours",
+    "Alcoholic_beverage_consumption": "Rarely",
+    "trial": "24_2021-09-05_15-04-44.txt",
+    "path": "24/",
+    "duration": 62550,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

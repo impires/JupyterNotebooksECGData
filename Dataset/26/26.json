@@ -1,0 +1,39 @@
+{
+    "start_time": "9/5/2021 15:19:52",
+    "ID": 26,
+    "Gender": "Male",
+    "Age": 73,
+    "Weight": 78,
+    "Height": 173,
+    "Education": "NA",
+    "Occupation": "Retired",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "05/14/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "2-3 times per week",
+    "Exercise_session_duration": "Up to 30 minutes",
+    "Prefered_exercises": "Walk",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "3-5",
+    "Candy-Salty_snacks-soda_consumption": "Rarely",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "Diabetes",
+    "Daily_medication": "Yes",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "6 hours",
+    "Alcoholic_beverage_consumption": "Every week",
+    "trial": "26_2021-09-05_15-19-52.txt",
+    "path": "26/",
+    "duration": 60150,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

@@ -1,0 +1,39 @@
+{
+    "start_time": "9/9/2021 19:34:50",
+    "ID": 79,
+    "Gender": "Male",
+    "Age": 22,
+    "Weight": 75,
+    "Height": 186,
+    "Education": "Comminucation Science",
+    "Occupation": "Student",
+    "Region": "Almada ",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/09/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "Karate, Judo, Boxing, Kickboxing or other martial art",
+    "Frequency_of_exercise": "Everyday",
+    "Exercise_session_duration": "Between 1 and 2 hours",
+    "Prefered_exercises": "Individual Sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "3-5",
+    "Candy-Salty_snacks-soda_consumption": "Rarely",
+    "Water_consumption": "> 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "Yes",
+    "Sleeping_hours": "7 hours",
+    "Alcoholic_beverage_consumption": "Occasionally",
+    "trial": "79_2021-09-09_19-34-50.txt",
+    "path": "79/",
+    "duration": 57665,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

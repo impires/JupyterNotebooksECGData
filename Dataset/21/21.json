@@ -1,0 +1,39 @@
+{
+    "start_time": "9/5/2021 14:40:10",
+    "ID": 21,
+    "Gender": "Female",
+    "Age": 55,
+    "Weight": 90,
+    "Height": 155,
+    "Education": "NA",
+    "Occupation": "Social Assistant",
+    "Region": "Sabugal",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "02/20/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "Walking",
+    "Frequency_of_exercise": "Everyday",
+    "Exercise_session_duration": "Between 1 and 2 hours",
+    "Prefered_exercises": "Walk",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "Never",
+    "Water_consumption": "0,5L - 1,0L ",
+    "Health_problems": "Diabetes/Hypertension",
+    "Daily_medication": "Yes",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "7 hours",
+    "Alcoholic_beverage_consumption": "No",
+    "trial": "21_2021-09-05_14-40-10.txt",
+    "path": "21/",
+    "duration": 61650,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

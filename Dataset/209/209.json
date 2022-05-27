@@ -1,0 +1,39 @@
+{
+    "start_time": "9/26/2021 16:33:08",
+    "ID": 209,
+    "Gender": "Female",
+    "Age": 30,
+    "Weight": 67,
+    "Height": 165,
+    "Education": "Medicine",
+    "Occupation": "Doctor",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "No",
+    "Date_of_last_COVID-19_vaccine": "08/16/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "No",
+    "Exercise_session_duration": "Up to 30 minutes",
+    "Prefered_exercises": "Team sports",
+    "Specific_diet": "Vegetarian",
+    "Fruits-vegetables_per_day": "3-5",
+    "Candy-Salty_snacks-soda_consumption": "Never",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "8 hours",
+    "Alcoholic_beverage_consumption": "No",
+    "trial": "209_2021-09-26_16-33-08.txt",
+    "path": "209/",
+    "duration": 59104,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

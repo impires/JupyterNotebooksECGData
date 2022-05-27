@@ -1,0 +1,39 @@
+{
+    "start_time": "9/16/2021 10:47:58",
+    "ID": 148,
+    "Gender": "Female",
+    "Age": 70,
+    "Weight": 64,
+    "Height": 150,
+    "Education": "NA",
+    "Occupation": "Retired",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "05/25/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "Rarely",
+    "Exercise_session_duration": "Up to 30 minutes",
+    "Prefered_exercises": "Walk",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "Rarely",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "Hypertension/Cholesterol",
+    "Daily_medication": "Yes",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "5 hours",
+    "Alcoholic_beverage_consumption": "No",
+    "trial": "148_2021-09-16_10-47-58.txt",
+    "path": "148/",
+    "duration": 57552,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

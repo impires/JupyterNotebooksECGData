@@ -1,0 +1,39 @@
+{
+    "start_time": "9/5/2021 17:17:58",
+    "ID": 37,
+    "Gender": "Male",
+    "Age": 36,
+    "Weight": 81,
+    "Height": 187,
+    "Education": "NA",
+    "Occupation": "Machine operator",
+    "Region": "Sabugal",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "05/05/2021",
+    "Gym_frequency": "Up to 3 times per month",
+    "Sport_practice": "Horseback Riding",
+    "Frequency_of_exercise": "Once per week",
+    "Exercise_session_duration": "Between 2 and 3 hours",
+    "Prefered_exercises": "Individual Sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "6-8",
+    "Candy-Salty_snacks-soda_consumption": "Rarely",
+    "Water_consumption": "> 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "Yes",
+    "Sleeping_hours": "8 hours",
+    "Alcoholic_beverage_consumption": "Occasionally",
+    "trial": "37_2021-09-05_17-17-58.txt",
+    "path": "37/",
+    "duration": 62100,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

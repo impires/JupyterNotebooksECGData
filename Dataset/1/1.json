@@ -1,0 +1,39 @@
+{
+    "start_time": "9/3/2021 11:14:33",
+    "ID": 1,
+    "Gender": "Male",
+    "Age": 22,
+    "Weight": 76,
+    "Height": 171,
+    "Education": "Game Design and Development",
+    "Occupation": "Student",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/27/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "No",
+    "Exercise_session_duration": "Up to 30 minutes",
+    "Prefered_exercises": "Team sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "Daily",
+    "Water_consumption": "0,5L - 1L ",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "8 hours",
+    "Alcoholic_beverage_consumption": "Occasionally",
+    "trial": "1_2021-09-03_11-14-33.txt",
+    "path": "1/",
+    "duration": 60449,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

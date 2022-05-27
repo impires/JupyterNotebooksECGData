@@ -1,0 +1,39 @@
+{
+    "start_time": "9/5/2021 14:33:16",
+    "ID": 19,
+    "Gender": "Female",
+    "Age": 19,
+    "Weight": 59,
+    "Height": 155,
+    "Education": "Psychology",
+    "Occupation": "Student",
+    "Region": "Sabugal",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/07/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "Once per week",
+    "Exercise_session_duration": "Between 30 minutes and 1 hour",
+    "Prefered_exercises": "Walk",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "1 or 2 times per week",
+    "Water_consumption": "0,33L - 0,5L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "7 hours",
+    "Alcoholic_beverage_consumption": "Every week",
+    "trial": "19_2021-09-05_14-33-16.txt",
+    "path": "19/",
+    "duration": 61200,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

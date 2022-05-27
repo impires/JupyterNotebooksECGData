@@ -1,0 +1,39 @@
+{
+    "start_time": "9/20/2021 21:06:43",
+    "ID": 201,
+    "Gender": "Male",
+    "Age": 23,
+    "Weight": 65,
+    "Height": 169,
+    "Education": "Aeronautical Engineering",
+    "Occupation": "Student",
+    "Region": "Penamacor",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/21/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "Athletics",
+    "Frequency_of_exercise": "2-3 times per week",
+    "Exercise_session_duration": "Between 30 minutes and 1 hour",
+    "Prefered_exercises": "Run",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "3-5",
+    "Candy-Salty_snacks-soda_consumption": "1 or 2 times per week",
+    "Water_consumption": "0,5L - 1,0L ",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "7 hours",
+    "Alcoholic_beverage_consumption": "No",
+    "trial": "201_2021-09-20_21-06-43.txt",
+    "path": "201/",
+    "duration": 60600,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

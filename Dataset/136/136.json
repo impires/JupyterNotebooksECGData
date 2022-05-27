@@ -1,0 +1,39 @@
+{
+    "start_time": "9/15/2021 11:58:53",
+    "ID": 136,
+    "Gender": "Female",
+    "Age": 21,
+    "Weight": 67,
+    "Height": 168,
+    "Education": "Nursing",
+    "Occupation": "Student",
+    "Region": "Fundão",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/02/2021",
+    "Gym_frequency": "Rarely",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "No",
+    "Exercise_session_duration": "Up to 30 minutes",
+    "Prefered_exercises": "Individual Sports",
+    "Specific_diet": "Vegan",
+    "Fruits-vegetables_per_day": "6-8",
+    "Candy-Salty_snacks-soda_consumption": "Nunca",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "8 hours",
+    "Alcoholic_beverage_consumption": "Occasionally",
+    "trial": "136_2021-09-15_11-58-53.txt",
+    "path": "136/",
+    "duration": 59700,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

@@ -1,0 +1,39 @@
+{
+    "start_time": "9/15/2021 17:28:56",
+    "ID": 144,
+    "Gender": "Male",
+    "Age": 21,
+    "Weight": 67,
+    "Height": 180,
+    "Education": "Industrial Management and Engineering",
+    "Occupation": "Student",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": null,
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "2-3 times per week",
+    "Exercise_session_duration": "Between 1 and 2 hours",
+    "Prefered_exercises": "Team sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "Daily",
+    "Water_consumption": "> 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "Yes",
+    "Sleeping_hours": "5 hours",
+    "Alcoholic_beverage_consumption": "Everyday",
+    "trial": "144_2021-09-15_17-28-56.txt",
+    "path": "144/",
+    "duration": 60750,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

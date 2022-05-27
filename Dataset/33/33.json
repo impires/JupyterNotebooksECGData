@@ -1,0 +1,39 @@
+{
+    "start_time": "9/5/2021 16:51:21",
+    "ID": 33,
+    "Gender": "Male",
+    "Age": 12,
+    "Weight": 40,
+    "Height": 153,
+    "Education": "NA",
+    "Occupation": "Student",
+    "Region": "Sabugal",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/17/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "Football or Futsal",
+    "Frequency_of_exercise": "Everyday",
+    "Exercise_session_duration": "Between 1 and 2 hours",
+    "Prefered_exercises": "Team sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "3-5",
+    "Candy-Salty_snacks-soda_consumption": "Rarely",
+    "Water_consumption": "0,5L - 1,0L ",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "8 hours",
+    "Alcoholic_beverage_consumption": "No",
+    "trial": "33_2021-09-05_16-51-21.txt",
+    "path": "33/",
+    "duration": 62400,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

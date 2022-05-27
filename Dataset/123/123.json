@@ -1,0 +1,39 @@
+{
+    "start_time": "9/15/2021 10:51:21",
+    "ID": 123,
+    "Gender": "Male",
+    "Age": 22,
+    "Weight": 73,
+    "Height": 190,
+    "Education": "NA",
+    "Occupation": "Lawyer",
+    "Region": "Guarda",
+    "COVID-19_vaccinated": "No",
+    "Date_of_last_COVID-19_vaccine": null,
+    "Gym_frequency": "Everyday",
+    "Sport_practice": "Swimming",
+    "Frequency_of_exercise": "Everyday",
+    "Exercise_session_duration": "More than 3 hours",
+    "Prefered_exercises": "Individual Sports",
+    "Specific_diet": "Vegan",
+    "Fruits-vegetables_per_day": "6-8",
+    "Candy-Salty_snacks-soda_consumption": "Never",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "Yes",
+    "Sleeping_hours": "6 hours",
+    "Alcoholic_beverage_consumption": "Everyday",
+    "trial": "123_2021-09-15_10-51-21.txt",
+    "path": "123/",
+    "duration": 55595,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

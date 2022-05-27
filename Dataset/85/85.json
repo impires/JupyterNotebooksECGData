@@ -1,0 +1,39 @@
+{
+    "start_time": "9/10/2021 20:27:30",
+    "ID": 85,
+    "Gender": "Female",
+    "Age": 21,
+    "Weight": 53,
+    "Height": 169,
+    "Education": "Electrical and Computer Engineering",
+    "Occupation": "Student",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/13/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "No",
+    "Exercise_session_duration": "Up to 30 minutes",
+    "Prefered_exercises": "Team sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "1 or 2 times per week",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "Yes",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "9 hours",
+    "Alcoholic_beverage_consumption": "Occasionally",
+    "trial": "85_2021-09-10_20-27-30.txt",
+    "path": "85/",
+    "duration": 60300,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

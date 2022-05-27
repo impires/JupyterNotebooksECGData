@@ -1,0 +1,39 @@
+{
+    "start_time": "9/13/2021 21:56:45",
+    "ID": 113,
+    "Gender": "Male",
+    "Age": 22,
+    "Weight": 68,
+    "Height": 173,
+    "Education": "Communications and multimedia technologies",
+    "Occupation": "Student",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/13/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "Rarely",
+    "Exercise_session_duration": "Up to 30 minutes",
+    "Prefered_exercises": "Team sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "1 or 2 times per week",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "Asthmatic Bronchitis/Allergies",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "8 hours",
+    "Alcoholic_beverage_consumption": "Occasionally",
+    "trial": "113_2021-09-13_21-56-45.txt",
+    "path": "113/",
+    "duration": 59850,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

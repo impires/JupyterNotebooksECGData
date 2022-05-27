@@ -1,0 +1,39 @@
+{
+    "start_time": "9/6/2021 20:10:25",
+    "ID": 43,
+    "Gender": "Male",
+    "Age": 60,
+    "Weight": 70,
+    "Height": 165,
+    "Education": "NA",
+    "Occupation": "Prison Guard",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "05/24/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "2-3 times per week",
+    "Exercise_session_duration": "More than 3 hours",
+    "Prefered_exercises": "Individual Sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "Daily",
+    "Water_consumption": "0,33L - 0,5L",
+    "Health_problems": "No",
+    "Daily_medication": "Yes",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "8 hours",
+    "Alcoholic_beverage_consumption": "Everyday",
+    "trial": "43_2021-09-06_20-10-25.txt",
+    "path": "43/",
+    "duration": 61650,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

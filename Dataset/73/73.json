@@ -1,0 +1,39 @@
+{
+    "start_time": "9/9/2021 11:53:08",
+    "ID": 73,
+    "Gender": "Female",
+    "Age": 42,
+    "Weight": 57.5,
+    "Height": 163,
+    "Education": "Nursing",
+    "Occupation": "Nurse",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "02/09/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "Up to 3 times per month",
+    "Exercise_session_duration": "Up to 30 minutes",
+    "Prefered_exercises": "Walk",
+    "Specific_diet": "Hypolipidic",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "1 or 2 times per week",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "High cholesterol",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "6 hours",
+    "Alcoholic_beverage_consumption": "No",
+    "trial": "73_2021-09-09_11-53-08.txt",
+    "path": "73/",
+    "duration": 60000,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

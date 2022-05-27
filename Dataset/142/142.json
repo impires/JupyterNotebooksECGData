@@ -1,0 +1,39 @@
+{
+    "start_time": "9/15/2021 14:36:50",
+    "ID": 142,
+    "Gender": "Male",
+    "Age": 20,
+    "Weight": 70,
+    "Height": 190,
+    "Education": "Bioengineering",
+    "Occupation": "Student",
+    "Region": "Mafra",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/16/2021",
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "Up to 3 times per month",
+    "Exercise_session_duration": "Between 2 and 3 hours",
+    "Prefered_exercises": "Team sports",
+    "Specific_diet": "Lactose intolerant",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "Rarely",
+    "Water_consumption": "0,33L - 0,5L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "Yes",
+    "Sleeping_hours": "8 hours",
+    "Alcoholic_beverage_consumption": "Every week",
+    "trial": "142_2021-09-15_14-36-50.txt",
+    "path": "142/",
+    "duration": 60450,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

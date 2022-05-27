@@ -1,0 +1,39 @@
+{
+    "start_time": "9/26/2021 17:02:19",
+    "ID": 215,
+    "Gender": "Male",
+    "Age": 32,
+    "Weight": 89,
+    "Height": 189,
+    "Education": "Nursing",
+    "Occupation": "Nurse",
+    "Region": "Fundão",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "03/09/2021",
+    "Gym_frequency": "Rarely",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "Rarely",
+    "Exercise_session_duration": "Between 1 and 2 hours",
+    "Prefered_exercises": "Individual Sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "3-5",
+    "Candy-Salty_snacks-soda_consumption": "Never",
+    "Water_consumption": "0,5L - 1,0L ",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "Yes",
+    "Sleeping_hours": "8 hours",
+    "Alcoholic_beverage_consumption": "Occasionally",
+    "trial": "215_2021-09-26_17-02-19.txt",
+    "path": "215/",
+    "duration": 85729,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

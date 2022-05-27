@@ -1,0 +1,39 @@
+{
+    "start_time": "9/13/2021 10:31:17",
+    "ID": 98,
+    "Gender": "Male",
+    "Age": 20,
+    "Weight": 65,
+    "Height": 170,
+    "Education": "Computer Science and Engineering",
+    "Occupation": "Student",
+    "Region": "Entroncamento ",
+    "COVID-19_vaccinated": "No",
+    "Date_of_last_COVID-19_vaccine": null,
+    "Gym_frequency": "No",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "No",
+    "Exercise_session_duration": "Up to 30 minutes",
+    "Prefered_exercises": "Team sports",
+    "Specific_diet": "Intermittent fasting ",
+    "Fruits-vegetables_per_day": "1-2",
+    "Candy-Salty_snacks-soda_consumption": "Daily",
+    "Water_consumption": "> 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "5 hours",
+    "Alcoholic_beverage_consumption": "Everyday",
+    "trial": "98_2021-09-13_10-31-17.txt",
+    "path": "98/",
+    "duration": 58352,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }

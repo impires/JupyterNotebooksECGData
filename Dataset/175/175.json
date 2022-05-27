@@ -1,0 +1,39 @@
+{
+    "start_time": "9/18/2021 22:03:51",
+    "ID": 175,
+    "Gender": "Male",
+    "Age": 37,
+    "Weight": 63,
+    "Height": 169,
+    "Education": "Sports Science",
+    "Occupation": "Professor",
+    "Region": "Covilhã",
+    "COVID-19_vaccinated": "Yes",
+    "Date_of_last_COVID-19_vaccine": "08/20/2021",
+    "Gym_frequency": "4-6 times per week",
+    "Sport_practice": "No",
+    "Frequency_of_exercise": "4-6 times per week",
+    "Exercise_session_duration": "Between 1 and 2 hours",
+    "Prefered_exercises": "Team sports",
+    "Specific_diet": "No",
+    "Fruits-vegetables_per_day": "3-5",
+    "Candy-Salty_snacks-soda_consumption": "Rarely",
+    "Water_consumption": "1,0L - 2,0L",
+    "Health_problems": "No",
+    "Daily_medication": "No",
+    "Smoking_habits": "No",
+    "Sleeping_hours": "7 hours",
+    "Alcoholic_beverage_consumption": "Rarely",
+    "trial": "175_2021-09-18_22-03-51.txt",
+    "path": "175/",
+    "duration": 60750,
+    "num_sensors": 1,
+    "sensors": {
+          "name": [
+              "ECG"
+          ],
+          "frequency": [
+              "1000"
+          ]
+      }
+   }
